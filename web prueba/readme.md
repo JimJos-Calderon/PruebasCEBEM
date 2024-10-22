@@ -21,3 +21,14 @@ git config --global user.name "JimJos-Calderon"
 ```
 git commit -m "creo la pagina web inicial"
 ```
+## Conecta el repositorio loca con el repositorio en línea
+//git remote add origin https://github.com/JimJos-Calderon/PruebasCEBEM.git
+
+## Sube los cambios que tienes en local a el repositorio remoto
+git push -u origin master
+
+
+## muestra las ramas de repositorio
+git branch
+
+##
